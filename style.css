@@ -1,0 +1,35 @@
+body{
+ background: #EDD09C;
+}
+
+.nav a {
+  color: #452C0A;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+#navCustom{
+  margin-bottom: 5px;
+  margin-top: 5px;
+  background-color: #EDD09C;
+  font-family: 'Droid Sans', sans-serif;
+  border-width: 0px;
+  margin-left: -2%;
+}
+#navCustom a{
+  color: #CB452A;
+}
+.nav li {
+  display: inline;
+}
+
+#navCustom a:hover{
+ color: #452C0A;
+}
+
+#title{
+ margin-top: 15px;
+}
