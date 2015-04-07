@@ -1,23 +1,22 @@
 body{
- background: #EDD09C;
+ background-image: url('/Users/emmajk2012/github/IPN/photos/sand2.jpg');
 }
 
 .nav a {
   color: #452C0A;
-  font-size: 14px;
+  font-size: 15px;
   font-weight: bold;
-  padding: 14px 10px;
   text-transform: uppercase;
   text-align: left;
+  padding-left: -15px;
 }
 
 #navCustom{
   margin-bottom: 5px;
-  margin-top: 5px;
-  background-color: #EDD09C;
+  margin-top: 20px;
+  background: #EDD09C;
   font-family: 'Droid Sans', sans-serif;
   border-width: 0px;
-  margin-left: -2%;
 }
 #navCustom a{
   color: #CB452A;
@@ -32,4 +31,15 @@ body{
 
 #title{
  margin-top: 15px;
+ margin-right: 15px;
+ background-image: url('/Users/emmajk2012/github/IPN/photos/sand2.jpg')
+}
+
+.footer{
+  background-color: #EDD09C;
+  border-radius: 4px;
+  margin-top: 20px;
+  margin-bottom: 5px;
+  text-align: center;
+  color: #CB452A;
 }
